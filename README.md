@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ank7007
 - 👀 I’m interested in Python & Data Scientist role
 - 🌱 I’m currently learning Python and Data Scientist
-- 💞️ I’m looking to collaborate on Python developer, Data Scientist, Blockchain developer
+- 💞️ I’m looking to collaborate with Python developer, Data Scientist, Blockchain developer
 - 📫 How to reach me 
 
 <!---
